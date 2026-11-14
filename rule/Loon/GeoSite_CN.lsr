@@ -1,8 +1,8 @@
 # Name = GeoSite_CN
-# Author = Keviin560
-# REPO = https://github.com/Keviin560/Shunt_Rules
-# Update = 2026-11-11 08:24:38
-# Total = 7888
+# Author = elianokk
+# REPO = https://github.com/elianokk/Shunt_Rules
+# Update = 2026-11-15 07:37:33
+# Total = 7890
 
 DOMAIN,account-cn.alibabacloud.com
 DOMAIN,ai.zhaomi.cn
@@ -2499,6 +2499,7 @@ DOMAIN-SUFFIX,duxiaomanfintech.com
 DOMAIN-SUFFIX,duxiaomanfund.com
 DOMAIN-SUFFIX,duxiaomantech.com
 DOMAIN-SUFFIX,duxiu.com
+DOMAIN-SUFFIX,dwion.com
 DOMAIN-SUFFIX,dwjq.com.cn
 DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,dwz.cn
@@ -3934,6 +3935,7 @@ DOMAIN-SUFFIX,jfdaily.com.cn
 DOMAIN-SUFFIX,jgtab.link
 DOMAIN-SUFFIX,jhgtgb.com
 DOMAIN-SUFFIX,jhscm.com
+DOMAIN-SUFFIX,jhwan.com.cn
 DOMAIN-SUFFIX,jhzq.com.cn
 DOMAIN-SUFFIX,jia.com
 DOMAIN-SUFFIX,jiakaobaodian.com
@@ -4574,7 +4576,6 @@ DOMAIN-SUFFIX,lkkbrand.com
 DOMAIN-SUFFIX,llsapp.com
 DOMAIN-SUFFIX,llscdn.com
 DOMAIN-SUFFIX,llsserver.com
-DOMAIN-SUFFIX,lnlib.net
 DOMAIN-SUFFIX,local-ip.online
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,log-global.aliyuncs.com
@@ -6927,6 +6928,7 @@ DOMAIN-SUFFIX,volx.cn
 DOMAIN-SUFFIX,vpgame.com
 DOMAIN-SUFFIX,vpsjyz.com
 DOMAIN-SUFFIX,vpsvs.com
+DOMAIN-SUFFIX,vrzwk.cn
 DOMAIN-SUFFIX,vrzwk.com
 DOMAIN-SUFFIX,vrzwk.net
 DOMAIN-SUFFIX,vrzwk.top
@@ -6992,6 +6994,7 @@ DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,wegamedeveloper.com
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,wegobank.cn
+DOMAIN-SUFFIX,weicaifu.com
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,weilaicaijing.com
 DOMAIN-SUFFIX,weilaiyunxiao.com
@@ -7255,7 +7258,6 @@ DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,xiaoyuanzhao.com
 DOMAIN-SUFFIX,xiaoyuxitong.com
 DOMAIN-SUFFIX,xiaoyuzhoufm.com
-DOMAIN-SUFFIX,xiayx.com
 DOMAIN-SUFFIX,xiazaiba.com
 DOMAIN-SUFFIX,xiberia.net
 DOMAIN-SUFFIX,xiezuocat.com

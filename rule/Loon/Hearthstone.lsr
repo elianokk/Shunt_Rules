@@ -1,7 +1,7 @@
 # Name = Hearthstone
-# Author = Keviin560
-# REPO = https://github.com/Keviin560/Shunt_Rules
-# Update = 2026-11-05 08:43:18
+# Author = elianokk
+# REPO = https://github.com/elianokk/Shunt_Rules
+# Update = 2026-11-16 07:44:33
 # Total = 4
 
 IP-CIDR,182.162.132.1/32,no-resolve

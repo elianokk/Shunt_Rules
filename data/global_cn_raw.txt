@@ -132,6 +132,7 @@ bluecloudprod.com
 bmw.com.cn
 booking.cn
 browser.events.data.msn.cn
+captive.apple.com
 cdn.jetbrains.com
 cegid-cloud.cn
 cf-china.info
@@ -269,6 +270,7 @@ full:collaborateppe.download.prss.microsoft.com
 full:communities.apple.com
 full:configuration.apple.com
 full:configuration.apple.com.akadns.net
+full:configuration.ls.apple.com
 full:crl-lb.apple.com.akadns.net
 full:crl.apple.com
 full:crl.kaspersky.com
@@ -444,10 +446,12 @@ full:msdn.download.prss.microsoft.com
 full:msdprod-ad.download.prss.microsoft.com
 full:msproduct.download.prss.microsoft.com
 full:music.apple.com
+full:musicstatus.itunes.apple.com
 full:musicstatus.music.apple.com
 full:mvod.itunes.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
+full:mzstorekit.itunes.apple.com
 full:nexus.dell.com
 full:np-edge.itunes.apple.com
 full:ocsp-lb.apple.com.akadns.net

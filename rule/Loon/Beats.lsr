@@ -1,7 +1,7 @@
 # Name = Beats
-# Author = Keviin560
-# REPO = https://github.com/Keviin560/Shunt_Rules
-# Update = 2026-11-05 08:43:06
+# Author = elianokk
+# REPO = https://github.com/elianokk/Shunt_Rules
+# Update = 2026-11-16 07:44:16
 # Total = 714
 
 DOMAIN-SUFFIX,100beatscheap.com

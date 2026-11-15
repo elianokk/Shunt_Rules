@@ -1,8 +1,8 @@
 # Name = Global_CN
-# Author = Keviin560
-# REPO = https://github.com/Keviin560/Shunt_Rules
-# Update = 2026-11-07 07:58:06
-# Total = 781
+# Author = elianokk
+# REPO = https://github.com/elianokk/Shunt_Rules
+# Update = 2026-11-16 07:44:33
+# Total = 785
 
 DOMAIN,a1.mzstatic.com
 DOMAIN,a2.mzstatic.com
@@ -91,6 +91,7 @@ DOMAIN,collaborateppe.download.prss.microsoft.com
 DOMAIN,communities.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
+DOMAIN,configuration.ls.apple.com
 DOMAIN,crl-lb.apple.com.akadns.net
 DOMAIN,crl.apple.com
 DOMAIN,crl.kaspersky.com
@@ -266,10 +267,12 @@ DOMAIN,msdn.download.prss.microsoft.com
 DOMAIN,msdprod-ad.download.prss.microsoft.com
 DOMAIN,msproduct.download.prss.microsoft.com
 DOMAIN,music.apple.com
+DOMAIN,musicstatus.itunes.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,myapp.itunes.apple.com
 DOMAIN,myvs.download.prss.microsoft.com
+DOMAIN,mzstorekit.itunes.apple.com
 DOMAIN,nexus.dell.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,ocsp-lb.apple.com.akadns.net
@@ -574,6 +577,7 @@ DOMAIN-SUFFIX,blueaggrestore.com
 DOMAIN-SUFFIX,bluecloudprod.com
 DOMAIN-SUFFIX,bmw.com.cn
 DOMAIN-SUFFIX,booking.cn
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,cegid-cloud.cn
 DOMAIN-SUFFIX,cf-china.info

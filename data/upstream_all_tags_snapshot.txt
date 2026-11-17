@@ -705,6 +705,7 @@ hupu
 hupun
 hurricaneelectric
 huya
+hypergryph
 ibkr
 ibm
 icable
@@ -997,4 +998,3 @@ nintendo
 nist
 nixos
 nodejs
-nodeseek

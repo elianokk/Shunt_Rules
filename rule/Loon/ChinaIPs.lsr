@@ -1,7 +1,7 @@
 # Name = ChinaIPs
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-16 07:44:17
+# Update = 2026-11-17 10:45:50
 # Total = 19619
 
 IP-CIDR,1.0.1.0/24,no-resolve

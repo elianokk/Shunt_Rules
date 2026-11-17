@@ -1,7 +1,7 @@
 # Name = AdGuardSDNSFilter_Direct
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-16 07:44:36
+# Update = 2026-11-17 10:46:14
 # Total = 149
 
 DOMAIN,5471782.fls.doubleclick.net

@@ -1,7 +1,7 @@
 # Name = iTalkBB
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-16 07:44:36
+# Update = 2026-11-17 10:46:14
 # Total = 4
 
 DOMAIN-SUFFIX,PROCESS-NAME,com.italkbbtv.phone

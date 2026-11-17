@@ -1,7 +1,7 @@
 # Name = GitLab
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-16 07:44:32
+# Update = 2026-11-17 10:46:09
 # Total = 6
 
 DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com

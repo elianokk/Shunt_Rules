@@ -1,8 +1,8 @@
 # Name = Game_Proxy
-# Author = Keviin560
-# REPO = https://github.com/Keviin560/Shunt_Rules
-# Update = 2026-11-05 08:43:16
-# Total = 882
+# Author = elianokk
+# REPO = https://github.com/elianokk/Shunt_Rules
+# Update = 2026-11-17 10:46:08
+# Total = 883
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -207,6 +207,7 @@ DOMAIN-SUFFIX,cubicodyssey.game
 DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,cyberpunk.net
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,daoc.net
 DOMAIN-SUFFIX,darkageofcamelot.com

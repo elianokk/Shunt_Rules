@@ -22,6 +22,7 @@ gog
 herogame
 hoyoverse
 humblebundle
+hypergryph @-!cn
 itchio
 konami
 kurogames @-!cn

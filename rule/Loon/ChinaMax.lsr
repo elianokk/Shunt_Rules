@@ -1,7 +1,7 @@
 # Name = ChinaMax
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-17 10:45:56
+# Update = 2026-11-18 10:03:24
 # Total = 123087
 
 IP-CIDR,0.0.0.0/32,no-resolve

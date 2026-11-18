@@ -1,7 +1,7 @@
 # Name = BlockHttpDNS
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-17 10:45:49
+# Update = 2026-11-18 10:03:19
 # Total = 63
 
 IP-CIDR,101.124.19.122/32,no-resolve

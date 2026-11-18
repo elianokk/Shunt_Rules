@@ -1,7 +1,7 @@
 # Name = Supercell
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-17 10:46:13
+# Update = 2026-11-18 10:03:38
 # Total = 24
 
 IP-CIDR,13.210.25.233/32,no-resolve

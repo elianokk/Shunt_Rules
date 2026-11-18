@@ -1,7 +1,7 @@
 # Name = Google
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-17 10:46:11
+# Update = 2026-11-18 10:03:36
 # Total = 700
 
 IP-CIDR,172.110.32.0/21,no-resolve

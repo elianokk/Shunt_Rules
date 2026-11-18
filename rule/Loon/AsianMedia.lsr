@@ -1,7 +1,7 @@
 # Name = AsianMedia
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-17 10:45:49
+# Update = 2026-11-18 10:03:19
 # Total = 31
 
 IP-CIDR,103.44.56.0/22,no-resolve

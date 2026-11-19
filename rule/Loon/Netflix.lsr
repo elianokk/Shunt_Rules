@@ -1,7 +1,7 @@
 # Name = Netflix
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-18 10:03:37
+# Update = 2026-11-19 09:41:15
 # Total = 1157
 
 IP-CIDR,103.87.204.0/22,no-resolve

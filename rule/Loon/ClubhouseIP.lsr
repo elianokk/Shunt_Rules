@@ -1,7 +1,7 @@
 # Name = ClubhouseIP
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-18 10:03:34
+# Update = 2026-11-19 09:41:10
 # Total = 88
 
 IP-CIDR,103.59.49.10/32,no-resolve

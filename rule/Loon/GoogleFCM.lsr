@@ -1,7 +1,7 @@
 # Name = GoogleFCM
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-18 10:03:36
+# Update = 2026-11-19 09:41:13
 # Total = 41
 
 IP-CIDR,108.177.125.188/32,no-resolve

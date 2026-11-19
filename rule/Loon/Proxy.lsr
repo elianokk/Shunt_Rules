@@ -1,7 +1,7 @@
 # Name = Proxy
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-18 10:03:38
+# Update = 2026-11-19 09:41:16
 # Total = 6985
 
 IP-CIDR,1.201.0.0/24,no-resolve

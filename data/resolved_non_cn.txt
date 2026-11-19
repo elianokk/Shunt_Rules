@@ -406,6 +406,7 @@ DOMAIN-SUFFIX,tcbox.baidu.com # 命中广告剧毒库
 DOMAIN-SUFFIX,tcdlive.com # Blacklisted IP: 188.114.96.3
 DOMAIN-SUFFIX,tce.alicdn.com # 命中广告剧毒库
 DOMAIN-SUFFIX,tcss.qq.com # 命中广告剧毒库
+DOMAIN-SUFFIX,tencentads.com # 命中广告剧毒库
 DOMAIN-SUFFIX,testads.api.my7v.com # 命中广告剧毒库
 DOMAIN-SUFFIX,tgprocs.net # Blacklisted IP: 104.21.92.74
 DOMAIN-SUFFIX,theta.sogoucdn.com # 命中广告剧毒库

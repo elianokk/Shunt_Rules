@@ -1,7 +1,7 @@
 # Name = Line
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-18 10:03:37
+# Update = 2026-11-19 09:41:14
 # Total = 24
 
 IP-CIDR,103.2.28.0/22,no-resolve

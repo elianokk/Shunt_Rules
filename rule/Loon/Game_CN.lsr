@@ -1,14 +1,16 @@
 # Name = Game_CN
-# Author = Keviin560
-# REPO = https://github.com/Keviin560/Shunt_Rules
-# Update = 2026-11-07 07:58:05
-# Total = 178
+# Author = elianokk
+# REPO = https://github.com/elianokk/Shunt_Rules
+# Update = 2026-11-19 09:41:10
+# Total = 180
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
 DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17173cdn.com
+DOMAIN-SUFFIX,1y.com
+DOMAIN-SUFFIX,1ycdn.com
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
 DOMAIN-SUFFIX,37.com

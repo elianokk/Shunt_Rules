@@ -1,7 +1,7 @@
 # Name = China
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-18 10:03:19
+# Update = 2026-11-19 09:40:48
 # Total = 3719
 
 IP-CIDR,1.255.62.0/24,no-resolve

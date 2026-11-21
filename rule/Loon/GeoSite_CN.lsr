@@ -1,8 +1,8 @@
 # Name = GeoSite_CN
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-19 09:41:11
-# Total = 7920
+# Update = 2026-11-21 09:04:10
+# Total = 7924
 
 DOMAIN,account-cn.alibabacloud.com
 DOMAIN,ai.zhaomi.cn
@@ -2562,6 +2562,7 @@ DOMAIN-SUFFIX,ebscn.com
 DOMAIN-SUFFIX,ebtrust.com
 DOMAIN-SUFFIX,eceshi.com
 DOMAIN-SUFFIX,echargenet.com
+DOMAIN-SUFFIX,echooai.com
 DOMAIN-SUFFIX,ecjobhome.com
 DOMAIN-SUFFIX,eckwai.com
 DOMAIN-SUFFIX,ecns.cn
@@ -2702,8 +2703,10 @@ DOMAIN-SUFFIX,fastcom.com.cn
 DOMAIN-SUFFIX,favonis.cloud
 DOMAIN-SUFFIX,favonis.com
 DOMAIN-SUFFIX,favonis.space
+DOMAIN-SUFFIX,faw-vw.com
 DOMAIN-SUFFIX,faw.cn
 DOMAIN-SUFFIX,faxingbao.com
+DOMAIN-SUFFIX,fazhipro.com
 DOMAIN-SUFFIX,fbank.com
 DOMAIN-SUFFIX,fbstatic.cn
 DOMAIN-SUFFIX,fcapp.run
@@ -5719,6 +5722,7 @@ DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com
 DOMAIN-SUFFIX,sa-saopaulo.tencentcos.cn
 DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com
 DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com.cn
+DOMAIN-SUFFIX,saasfz.com
 DOMAIN-SUFFIX,saasops.tech
 DOMAIN-SUFFIX,saayaa.com
 DOMAIN-SUFFIX,saduck.top

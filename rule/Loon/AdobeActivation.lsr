@@ -1,7 +1,7 @@
 # Name = AdobeActivation
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-19 09:40:46
+# Update = 2026-11-21 09:03:30
 # Total = 118
 
 IP-CIDR,100.24.211.130/32,no-resolve

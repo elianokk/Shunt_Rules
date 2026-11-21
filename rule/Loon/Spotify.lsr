@@ -1,7 +1,7 @@
 # Name = Spotify
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-19 09:41:16
+# Update = 2026-11-21 09:04:14
 # Total = 30
 
 IP-CIDR,104.154.127.126/32,no-resolve

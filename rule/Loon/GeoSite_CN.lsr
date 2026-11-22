@@ -1,8 +1,8 @@
 # Name = GeoSite_CN
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-21 09:04:10
-# Total = 7924
+# Update = 2026-11-22 08:04:58
+# Total = 7922
 
 DOMAIN,account-cn.alibabacloud.com
 DOMAIN,ai.zhaomi.cn
@@ -247,6 +247,7 @@ DOMAIN-SUFFIX,360doc.com
 DOMAIN-SUFFIX,360huzhubao.com
 DOMAIN-SUFFIX,360jie.com
 DOMAIN-SUFFIX,360jinrong.net
+DOMAIN-SUFFIX,360jq.com
 DOMAIN-SUFFIX,360kan.com
 DOMAIN-SUFFIX,360kuai.com
 DOMAIN-SUFFIX,360os.com
@@ -805,7 +806,6 @@ DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,anycross.com
 DOMAIN-SUFFIX,anycubic.com
 DOMAIN-SUFFIX,anytocopy.com
-DOMAIN-SUFFIX,anywlan.com
 DOMAIN-SUFFIX,anzhuo.cn
 DOMAIN-SUFFIX,aocde.com
 DOMAIN-SUFFIX,aorizon.cn
@@ -2510,7 +2510,6 @@ DOMAIN-SUFFIX,duxiaomanfintech.com
 DOMAIN-SUFFIX,duxiaomanfund.com
 DOMAIN-SUFFIX,duxiaomantech.com
 DOMAIN-SUFFIX,duxiu.com
-DOMAIN-SUFFIX,dwion.com
 DOMAIN-SUFFIX,dwjq.com.cn
 DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,dwz.cn
@@ -3981,7 +3980,6 @@ DOMAIN-SUFFIX,jiemian.com.cn
 DOMAIN-SUFFIX,jigecili.com
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,jike.city
-DOMAIN-SUFFIX,jikecdn.com
 DOMAIN-SUFFIX,jikeiot.cloud
 DOMAIN-SUFFIX,jikexueyuan.com
 DOMAIN-SUFFIX,jimeng.com
@@ -3995,6 +3993,7 @@ DOMAIN-SUFFIX,jingdonghealth.cn
 DOMAIN-SUFFIX,jingdongjinrong.com
 DOMAIN-SUFFIX,jingheiot.com
 DOMAIN-SUFFIX,jingjiribao.cn
+DOMAIN-SUFFIX,jinglingbiaozhu.com
 DOMAIN-SUFFIX,jingpinhui.com
 DOMAIN-SUFFIX,jingpt.com
 DOMAIN-SUFFIX,jingxi.com
@@ -4494,7 +4493,6 @@ DOMAIN-SUFFIX,lenovo.com.cn
 DOMAIN-SUFFIX,lenovo.net
 DOMAIN-SUFFIX,lenovocare.com.cn
 DOMAIN-SUFFIX,lenovocloudos.com
-DOMAIN-SUFFIX,lenovocust.cn
 DOMAIN-SUFFIX,lenovoeservice.com
 DOMAIN-SUFFIX,lenovofile.com
 DOMAIN-SUFFIX,lenovofoundation.cn
@@ -5852,6 +5850,7 @@ DOMAIN-SUFFIX,shedunews.net
 DOMAIN-SUFFIX,shejijia.com
 DOMAIN-SUFFIX,shellpub.com
 DOMAIN-SUFFIX,shelter-china.com
+DOMAIN-SUFFIX,shelterdome.net
 DOMAIN-SUFFIX,shengdaosoft.com
 DOMAIN-SUFFIX,shengpay.com
 DOMAIN-SUFFIX,shengqugames.com
@@ -5915,7 +5914,6 @@ DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,shzq.com
 DOMAIN-SUFFIX,si12333.cn
 DOMAIN-SUFFIX,sichuanair.com
-DOMAIN-SUFFIX,simei8.com
 DOMAIN-SUFFIX,simuwang.com
 DOMAIN-SUFFIX,sinesafe.com
 DOMAIN-SUFFIX,sinf-test.net
@@ -6041,7 +6039,6 @@ DOMAIN-SUFFIX,ssports.com
 DOMAIN-SUFFIX,ssreader.cn
 DOMAIN-SUFFIX,ssreader.com.cn
 DOMAIN-SUFFIX,ssvideo.cn
-DOMAIN-SUFFIX,ssvideo.com.cn
 DOMAIN-SUFFIX,stage1st.com
 DOMAIN-SUFFIX,starbaby.cc
 DOMAIN-SUFFIX,starbucks.com.cn
@@ -7021,7 +7018,6 @@ DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,wegamedeveloper.com
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,wegobank.cn
-DOMAIN-SUFFIX,weicaifu.com
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,weilaicaijing.com
 DOMAIN-SUFFIX,weilaiyunxiao.com
@@ -7245,6 +7241,7 @@ DOMAIN-SUFFIX,xiaogouh5.com
 DOMAIN-SUFFIX,xiaohe.cn
 DOMAIN-SUFFIX,xiaoheihe.cn
 DOMAIN-SUFFIX,xiaohuanxiong.com
+DOMAIN-SUFFIX,xiaoka.tv
 DOMAIN-SUFFIX,xiaokaxiu.com
 DOMAIN-SUFFIX,xiaolachuxing.com
 DOMAIN-SUFFIX,xiaolianhb.com
@@ -7445,6 +7442,7 @@ DOMAIN-SUFFIX,yfcalc.com
 DOMAIN-SUFFIX,yfcdn.net
 DOMAIN-SUFFIX,yfcloud.com
 DOMAIN-SUFFIX,yfdts.net
+DOMAIN-SUFFIX,yfp2p.net
 DOMAIN-SUFFIX,yfscdn.net
 DOMAIN-SUFFIX,ygduoyi.com
 DOMAIN-SUFFIX,yh31.com

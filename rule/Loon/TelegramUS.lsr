@@ -1,7 +1,7 @@
 # Name = TelegramUS
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-19 09:41:17
+# Update = 2026-11-23 08:35:37
 # Total = 2
 
 IP-CIDR,2001:b28:f23d::/48,no-resolve

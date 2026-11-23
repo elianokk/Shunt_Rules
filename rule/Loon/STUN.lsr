@@ -1,7 +1,7 @@
 # Name = STUN
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-22 08:04:58
+# Update = 2026-11-23 08:35:37
 # Total = 366
 
 IP-CIDR,2001:4060:1:1005::10:32,no-resolve

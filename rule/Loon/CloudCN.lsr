@@ -1,7 +1,7 @@
 # Name = CloudCN
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-19 09:41:19
+# Update = 2026-11-23 08:35:38
 # Total = 231
 
 IP-CIDR,1.116.116.0/22,no-resolve

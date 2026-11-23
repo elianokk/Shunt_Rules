@@ -1,7 +1,7 @@
 # Name = ChinaIPsBGP
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-21 09:03:50
+# Update = 2026-11-23 08:35:25
 # Total = 3916
 
 IP-CIDR,1.1.8.0/24,no-resolve

@@ -1,7 +1,7 @@
 # Name = ProxyLite
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-21 09:04:13
+# Update = 2026-11-23 08:35:36
 # Total = 998
 
 IP-CIDR,1.201.0.0/24,no-resolve

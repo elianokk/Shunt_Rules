@@ -1,7 +1,7 @@
 # Name = JOOX
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-19 09:41:14
+# Update = 2026-11-23 08:35:36
 # Total = 7
 
 IP-CIDR,119.28.182.0/23,no-resolve

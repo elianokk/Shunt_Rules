@@ -1,7 +1,7 @@
 # Name = TelegramNL
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-19 09:41:17
+# Update = 2026-11-23 08:35:37
 # Total = 5
 
 IP-CIDR,149.154.160.0/20,no-resolve

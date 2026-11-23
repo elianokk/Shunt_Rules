@@ -1,7 +1,7 @@
 # Name = Game_Assassin'sCreed-Origins
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-19 09:41:19
+# Update = 2026-11-23 08:35:38
 # Total = 16
 
 IP-CIDR,104.92.145.0/24,no-resolve

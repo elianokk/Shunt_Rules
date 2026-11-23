@@ -1,7 +1,7 @@
 # Name = TeamViewer
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-21 09:04:14
+# Update = 2026-11-23 08:35:37
 # Total = 8
 
 IP-CIDR,139.220.243.27/32,no-resolve

@@ -1,7 +1,7 @@
 # Name = Twitch
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-23 08:35:37
+# Update = 2026-11-24 12:36:18
 # Total = 22
 
 IP-CIDR,103.53.48.0/23,no-resolve

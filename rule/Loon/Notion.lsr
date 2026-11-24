@@ -1,7 +1,7 @@
 # Name = Notion
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-23 08:35:36
+# Update = 2026-11-24 12:36:17
 # Total = 6
 
 DOMAIN,http-inputs-notion.splunkcloud.com

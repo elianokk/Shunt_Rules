@@ -1,7 +1,7 @@
 # Name = Whatsapp
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-23 08:35:37
+# Update = 2026-11-24 12:36:19
 # Total = 17
 
 IP-CIDR,158.85.224.160/27,no-resolve

@@ -1,7 +1,7 @@
 # Name = NetEaseMusic
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-23 08:35:36
+# Update = 2026-11-24 12:36:17
 # Total = 28
 
 IP-CIDR,101.71.154.241/32,no-resolve

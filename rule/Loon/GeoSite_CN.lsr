@@ -1,8 +1,8 @@
 # Name = GeoSite_CN
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-24 12:36:15
-# Total = 7927
+# Update = 2026-11-25 11:22:07
+# Total = 7925
 
 DOMAIN,account-cn.alibabacloud.com
 DOMAIN,ai.zhaomi.cn
@@ -2081,6 +2081,7 @@ DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,cqyyxc.com
 DOMAIN-SUFFIX,cr-cts.com
 DOMAIN-SUFFIX,cr173.com
+DOMAIN-SUFFIX,cravatar.com
 DOMAIN-SUFFIX,crecg.com
 DOMAIN-SUFFIX,crggcn.com
 DOMAIN-SUFFIX,cri.cn
@@ -2367,7 +2368,6 @@ DOMAIN-SUFFIX,dlnel.com
 DOMAIN-SUFFIX,dlnel.org
 DOMAIN-SUFFIX,dm5.cn
 DOMAIN-SUFFIX,dm5.com
-DOMAIN-SUFFIX,dm9.com
 DOMAIN-SUFFIX,dmall.com
 DOMAIN-SUFFIX,dmallcdn.com
 DOMAIN-SUFFIX,dmhmusic.com
@@ -5963,6 +5963,7 @@ DOMAIN-SUFFIX,snimay.com
 DOMAIN-SUFFIX,snodehome.cn
 DOMAIN-SUFFIX,snodehome.com
 DOMAIN-SUFFIX,snowballsecurities.com
+DOMAIN-SUFFIX,snowballtech.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,snxw.com
 DOMAIN-SUFFIX,so-quick.cn
@@ -6126,7 +6127,6 @@ DOMAIN-SUFFIX,szpgm.com
 DOMAIN-SUFFIX,szse.cn
 DOMAIN-SUFFIX,szsi.cn
 DOMAIN-SUFFIX,szu.app
-DOMAIN-SUFFIX,szu.moe
 DOMAIN-SUFFIX,szzfgjj.com
 DOMAIN-SUFFIX,t-head.cn
 DOMAIN-SUFFIX,t00ls.cc
@@ -7042,7 +7042,6 @@ DOMAIN-SUFFIX,wenjuan.com
 DOMAIN-SUFFIX,wenkeju.com
 DOMAIN-SUFFIX,wenkub.com
 DOMAIN-SUFFIX,wenmingban.com
-DOMAIN-SUFFIX,wenpai.org
 DOMAIN-SUFFIX,wenshushu.cn
 DOMAIN-SUFFIX,wenshushu.com
 DOMAIN-SUFFIX,wenwo.com
@@ -7524,7 +7523,6 @@ DOMAIN-SUFFIX,yonyoucloud.com
 DOMAIN-SUFFIX,yooc.me
 DOMAIN-SUFFIX,yoojia.com
 DOMAIN-SUFFIX,youba.com
-DOMAIN-SUFFIX,youbianku.com
 DOMAIN-SUFFIX,youboy.com
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,youhua.com

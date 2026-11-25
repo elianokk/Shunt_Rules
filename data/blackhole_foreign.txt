@@ -4380,6 +4380,7 @@ cableav.tv
 cableav.xyz
 cabletv.com.hk
 cabletvdirectv.com
+cachix.org
 cad-mep.com
 cadcamsystemsinc.com
 cadduct.com
@@ -7771,10 +7772,12 @@ fastindianporn.com
 fastlane.ci
 fastlane.tools
 fastly-edge.com
+fastly-insights.com
 fastly-terrarium.com
 fastly.com
 fastly.io
 fastly.net
+fastlydns.net
 fastlylabs.com
 fastlylb.net
 faststone.org
@@ -8627,6 +8630,7 @@ full:copilot-telemetry-service.githubusercontent.com
 full:copilot-telemetry.githubusercontent.com
 full:copilot-workspace.githubnext.com
 full:copilotprodattachments.blob.core.windows.net
+full:courses.myecnu.org
 full:crl.microsoft.com
 full:crl.versign.net
 full:csis-prod.s3.amazonaws.com
@@ -22085,6 +22089,7 @@ viu.com
 viu.tv
 vivaldi.com
 vivaxnxx.com
+vivox.com
 vixen.com
 vixengroup.com
 vixvids.to

@@ -1,7 +1,7 @@
 # Name = Intercom
-# Author = Keviin560
-# REPO = https://github.com/Keviin560/Shunt_Rules
-# Update = 2026-09-04 06:14:10
+# Author = elianokk
+# REPO = https://github.com/elianokk/Shunt_Rules
+# Update = 2026-11-28 10:28:59
 # Total = 4
 
 DOMAIN-SUFFIX,intercom.com

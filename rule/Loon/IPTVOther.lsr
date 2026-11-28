@@ -1,7 +1,7 @@
 # Name = IPTVOther
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-24 12:36:16
+# Update = 2026-11-28 10:28:58
 # Total = 2814
 
 IP-CIDR,1.222.207.80/32,no-resolve

@@ -1,7 +1,7 @@
 # Name = Pubmatic
 # Author = elianokk
 # REPO = https://github.com/elianokk/Shunt_Rules
-# Update = 2026-11-24 12:36:17
+# Update = 2026-11-28 10:29:02
 # Total = 1
 
 DOMAIN-SUFFIX,ads.pubmatic.com
